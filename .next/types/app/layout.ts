@@ -1,4 +1,4 @@
-// File: C:\Users\Owner\Downloads\crypto-watch-full\app\layout.tsx
+// File: C:\Users\amodk\OneDrive\Desktop\crypto2323\crypto2323\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

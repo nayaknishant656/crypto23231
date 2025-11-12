@@ -1,4 +1,4 @@
-// File: C:\Users\Owner\Downloads\crypto-watch-full\app\live\page.tsx
+// File: C:\Users\amodk\OneDrive\Desktop\crypto2323\crypto2323\app\live\page.tsx
 import * as entry from '../../../../app/live/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/coingecko/route": "/api/coingecko",
+  "/api/proxy/route": "/api/proxy",
+  "/api/coins/markets/route": "/api/coins/markets",
+  "/market-insight/page": "/market-insight",
+  "/live/page": "/live",
+  "/share-market-room/page": "/share-market-room",
+  "/id/page": "/id",
+  "/page": "/",
+  "/dashboard/page": "/dashboard",
+  "/watchlist/page": "/watchlist",
+  "/portfolio/page": "/portfolio"
+}

@@ -1,14 +1,14 @@
 {
-  "/api/proxy/route": "app/api/proxy/route.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/coins/markets/route": "app/api/coins/markets/route.js",
   "/api/coingecko/route": "app/api/coingecko/route.js",
-  "/id/page": "app/id/page.js",
+  "/api/proxy/route": "app/api/proxy/route.js",
+  "/api/coins/markets/route": "app/api/coins/markets/route.js",
   "/market-insight/page": "app/market-insight/page.js",
-  "/page": "app/page.js",
   "/live/page": "app/live/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/portfolio/page": "app/portfolio/page.js",
   "/share-market-room/page": "app/share-market-room/page.js",
-  "/watchlist/page": "app/watchlist/page.js"
+  "/id/page": "app/id/page.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/watchlist/page": "app/watchlist/page.js",
+  "/portfolio/page": "app/portfolio/page.js"
 }

@@ -1,4 +1,4 @@
-// File: C:\Users\Owner\Downloads\crypto-watch-full\app\api\coingecko\route.ts
+// File: C:\Users\amodk\OneDrive\Desktop\crypto2323\crypto2323\app\api\coingecko\route.ts
 import * as entry from '../../../../../app/api/coingecko/route.js'
 import type { NextRequest } from 'next/server.js'
 

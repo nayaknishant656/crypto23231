@@ -98,7 +98,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\Owner\\Downloads\\crypto-watch-full",
+    "outputFileTracingRoot": "C:\\Users\\amodk\\OneDrive\\Desktop\\crypto2323\\crypto2323",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -156,7 +156,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 11,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -281,10 +281,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
     "turbopack": {
-      "root": "C:\\Users\\Owner\\Downloads\\crypto-watch-full"
+      "root": "C:\\Users\\amodk\\OneDrive\\Desktop\\crypto2323\\crypto2323"
     }
   },
-  "appDir": "C:\\Users\\Owner\\Downloads\\crypto-watch-full",
+  "appDir": "C:\\Users\\amodk\\OneDrive\\Desktop\\crypto2323\\crypto2323",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
